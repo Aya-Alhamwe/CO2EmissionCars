@@ -77,7 +77,7 @@ Build a simple linear regression model to predict **CO2 emissions (g/km)** based
 ```bash
 pip install numpy pandas matplotlib scikit-learn
 
-```
+ 
 
 ## 📁 Folder Structure
 .
@@ -90,4 +90,4 @@ pip install numpy pandas matplotlib scikit-learn
 └── FuelConsumptionCo2.csv
 
 
-
+```
