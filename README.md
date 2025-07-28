@@ -74,12 +74,8 @@ Build a simple linear regression model to predict **CO2 emissions (g/km)** based
 - Matplotlib
 - scikit-learn
 
-```bash
-pip install numpy pandas matplotlib scikit-learn
-
- 
-
 ## 📁 Folder Structure
+```bash
 .
 ├── Co2Cars.ipynb
 ├── co2cars.py
