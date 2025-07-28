@@ -58,17 +58,15 @@ Build a simple linear regression model to predict **CO2 emissions (g/km)** based
 
 ## 📸 Sample Visualizations
 
-<p align="center">
-  <img src="assets/before_log.png" alt="Scatter Plot - Before Log" width="400"/>
-  <br>
-  <em>Fuel Consumption vs CO2 Emissions (Raw)</em>
-</p>
+<div>
+  <img src="assets/before_log.png" alt="Scatter Plot - Before Log" width="600" style="display: block; margin-bottom: 10px;"/>
+  <p><em>Fuel Consumption vs CO2 Emissions (Raw)</em></p>
+</div>
 
-<p align="center">
-  <img src="assets/after_log.png" alt="Scatter Plot - After Log" width="400"/>
-  <br>
-  <em>Fuel Consumption vs CO2 Emissions (After Log Transformation)</em>
-</p>
+<div>
+  <img src="assets/after_log.png" alt="Scatter Plot - After Log" width="600" style="display: block; margin-bottom: 10px;"/>
+  <p><em>Fuel Consumption vs CO2 Emissions (After Log Transformation)</em></p>
+</div>
 
 ---
 
